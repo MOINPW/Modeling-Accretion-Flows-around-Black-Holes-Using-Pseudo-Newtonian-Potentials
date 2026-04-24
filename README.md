@@ -1,0 +1,2 @@
+# Modeling-Accretion-Flows-around-Black-Holes-Using-Pseudo-Newtonian-Potentials
+We study the accretion onto an isolated black hole using hydrodynamical simulations.Instead of employing full general relativity, we use the Paczy\'nski--Wiita pseudo-Newtonian potential, which effectively reproduces the strong gravitational effects near the black hole while significantly reducing computational complexity.
